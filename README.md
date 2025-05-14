@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chenningling-redbook-search-comment-mcp2-0-badge.png)](https://mseep.ai/app/chenningling-redbook-search-comment-mcp2-0)
+
 # 小红书自动搜索评论工具（MCP Server 2.0）
 
 <div align="right">
